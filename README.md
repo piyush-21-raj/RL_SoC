@@ -4,10 +4,6 @@ This repository reflects the checkpoints of the 2023 instance of SoC: Street Fig
 
 I have taken ideas from Prof. Shivaram's course - CS747: Foundations of Intelligent and Learning Agents - offered at IIT Bombay.
 
-```diff
-- WARNING: Boring Stuff Ahead!!
-```
-
 ### [Google Classroom Link (Do not use LDAP)](https://classroom.google.com/c/NjA3NDczMDk0MDU2?cjc=h5sbqnv)
 
 ## Overview
