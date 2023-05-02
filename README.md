@@ -8,7 +8,7 @@ I have taken ideas from Prof. Shivaram's course - CS747: Foundations of Intellig
 - WARNING: Boring Stuff Ahead!!
 ```
 
-### [Google Classroom Link](https://classroom.google.com/c/NjA3NDczMDk0MDU2?cjc=h5sbqnv)
+### [Google Classroom Link (Do not use LDAP)](https://classroom.google.com/c/NjA3NDczMDk0MDU2?cjc=h5sbqnv)
 
 ## Overview
 With python as our baseline for all code (which I will glibly assume you are familiar with) we are set to begin our journey through Reinforcement Learning. This SoC instance will be distributed into a 7 week paradigm of assignments, review meets and lots of fun!
