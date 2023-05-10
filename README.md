@@ -1,17 +1,15 @@
 # Welcome to my Project 'Street Fighter II - Reinforcement Learning'
 
-This repository contains the materials used and assignments undertaken in the project.
+This repository contains the materials used and assignments undertaken during the project.
 
 
-# Specifics
+## Specifics
 1. Duration: 7 Weeks
 
-2. Time Commitment per week: 2-2.5 hours per day
-
-3. Skills picked up:
+2. Skills picked up:
    *
 
-# Links
+## Resources
 - [CS 747 2021 offering](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2021/index.html)
 - [David Silver's RL Course + Slides](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
 - [Sutton and Barto Second Edition](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
