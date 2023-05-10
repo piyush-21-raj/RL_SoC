@@ -1,17 +1,20 @@
-# Hello! Welcome to my SOC 23' Project Street Fighter II - Reinforcement Learning.
+# Welcome to my Project 'Street Fighter II - Reinforcement Learning'
 
 This repository contains the material and assignments of the project through the 7 weeks.
 
-## Links
+
+## Specifics
+1. Duration: 7 Weeks
+
+2. Time Commitment per week: 2-2.5 hours per day
+
+3. Skills picked up:
+   *
+
+# Links
 - [CS 747 2021 offering](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2021/index.html)
 - [David Silver's RL Course + Slides](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
 - [Sutton and Barto Second Edition](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-
-## Duration: 7 Weeks
-## Time Commitment per week: 2-2.5 hours per day
-
-## Skills picked up:
-- 
 
 ## Logistics
 1. Each week, material will be uploaded in a folder named with the week number. Weekly, you are required to do four things: 
