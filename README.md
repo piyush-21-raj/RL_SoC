@@ -3,7 +3,7 @@
 This repository contains the material and assignments of the project through the 7 weeks.
 
 
-## Specifics
+# Specifics
 1. Duration: 7 Weeks
 
 2. Time Commitment per week: 2-2.5 hours per day
