@@ -1,0 +1,16 @@
+A Car has one of three states at a time -- Cool, Warm, Overheat
+
+Cool:
+    Car can go Fast or Slow
+        Fast -- reward(2) distance(2) next-state(0.5 probability each for Cool or Warm)
+        Slow -- reward(1) distance(1) next-state(Cool)
+
+Warm:
+    Car can go Fast or Slow
+        Fast -- reward(-10) distance(0) next-state(Overheat)
+        Slow -- reward(1) distance(0.5) next-state(0.5 probability each for Cool or Warm)
+
+Overheat:
+    Car can go no further
+
+Take a string of actions (Fast or Slow) from the user and output the final distance covered and reward

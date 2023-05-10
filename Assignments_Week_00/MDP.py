@@ -50,7 +50,7 @@ if __name__ == "__main__":
             total_reward += current_state.reward[current_state.actions.index(my_action)]
             total_distance += current_state.distance[current_state.actions.index(my_action)]
 
-            if current_state.name != "Warm" : #if current state is Cool
+            if current_state.name != "Warm" : #current state is Cool
                 if my_action != "Slow":
                     rand_select = random.rand()
                     if rand_select > 0.5:
@@ -60,7 +60,7 @@ if __name__ == "__main__":
                 else:
                     current_state = Cool
             
-            else: #if current state is warm
+            else: #current state is warm
                 if my_action != "Fast":
                     rand_select = random.rand()
                     if rand_select > 0.5:
