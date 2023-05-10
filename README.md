@@ -1,6 +1,6 @@
 # Welcome to my Project 'Street Fighter II - Reinforcement Learning'
 
-This repository contains the material and assignments of the project through the 7 weeks.
+This repository contains the materials used and assignments undertaken in the project.
 
 
 # Specifics
@@ -15,6 +15,7 @@ This repository contains the material and assignments of the project through the
 - [CS 747 2021 offering](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2021/index.html)
 - [David Silver's RL Course + Slides](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
 - [Sutton and Barto Second Edition](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik](https://www.probabilitycourse.com/preface.php)
 
 ## Logistics
 1. Each week, material will be uploaded in a folder named with the week number. Weekly, you are required to do four things: 
