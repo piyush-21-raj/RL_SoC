@@ -1,6 +1,6 @@
 # Welcome to my Project 'Street Fighter II - Reinforcement Learning'
 
-This repository contains the materials used and assignments undertaken during the project.
+This repository contains the materials used and assignments undertaken during the project under SOC 23'.
 
 
 ## Specifics
