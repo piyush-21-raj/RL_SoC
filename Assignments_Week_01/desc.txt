@@ -1,0 +1,25 @@
+The different buttons :
+    #<button name> -- <distribution of possible rewards> ; index
+    coinToss -- +5/-6 with 0.5 probability each ; index = 0
+    poissonDist -- +2 variance Poisson Distributed Reward ; index = 1
+    expoDist -- +3 mean Exponential Distributed Reward ; index = 2
+    gaussDist -- (+2,1) Gaussian Distributed Reward ; index = 3
+    crazy -- call one of the other 4 functions with 0.25 probability each ; index = 4
+
+Algorithm Implementation:
+    #greedy/e-greedy Algorithm Implementation
+
+    --> epsGreedy(epsilon) -- executes the algorithm with e=epsilon ; return - pandas dataframe with axis=0(max mean at each time period for an episode) axis=1(different episodes)
+        --> In every episode run TIME_STEP no of time steps
+            --> In every Time Step :
+                --> Identify the greedy/non greedy functions based on estimated mean values and store their index
+                --> If all estimated means are, same directly explore; else :
+                    --> explore non-greedy functions with e probability
+                    --> exploit greedy functions with 1-e probability
+                --> Among all estimated means, store the max mean as the reward for that Time Step
+        --> Run EPISODE no of episodes
+        --> covert the max means' numpy array into a TIME_STEP*EPISODE pandas dataframe and return this to the call
+
+Plotting :
+    --> Plot each episode (row) of each dataframe against time steps in the same graph
+    --> 
